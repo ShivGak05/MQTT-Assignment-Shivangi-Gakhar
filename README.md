@@ -4,12 +4,9 @@ Files Included:
 3.README.md – Documentation
 
 Topic tree:
-mqtt-demoShivangi/
-│
-├──led: for led associated with PIR sensor
-├──led2: for led associated with ultrasonic sensor
-├──ir : for PIR sensor
-|──ultra : for ultrasonic sensor
+<p align="center">
+  <img src="./topictree.png" alt="Simulation Screenshot" width="100"/>
+</p>
 
 Broker Commands:
 1. Subscribe to sensor data:
@@ -30,5 +27,14 @@ mosquitto_pub -h test.mosquitto.org -t "mqtt-demoShivangi/led" -m "off"
 Screenshots:
 <p align="center">
   <img src="./image1.png" alt="Simulation Screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="./image2.png" alt="Simulation Screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="./image3.png" alt="Simulation Screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="./image4.png" alt="Simulation Screenshot" width="600"/>
 </p>
 
