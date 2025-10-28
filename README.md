@@ -5,7 +5,7 @@ Files Included:
 
 Topic tree:
 <p align="center">
-  <img src="./topictree.png" alt="Simulation Screenshot" width="100"/>
+  <img src="./topictree.png" alt="Simulation Screenshot" width="400"/>
 </p>
 
 Broker Commands:
